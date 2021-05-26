@@ -1,2 +1,3 @@
-# school-project
-This repo for my school-project :(
+# school project - Math Game
+Game is not complete. If you can help me in this project :)
+
